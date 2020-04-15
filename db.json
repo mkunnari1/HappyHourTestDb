@@ -1,4 +1,4 @@
-
+{
   "establishments":[
     {
       "id": 1,
@@ -40,5 +40,5 @@
       "happy hour end 2" : 0
       
     }
-]
-
+],
+}
