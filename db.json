@@ -1,5 +1,5 @@
 {
-  "establishments":[
+  "establishments": [
     {
       "id": 1,
       "name" : "Block 15",
@@ -40,5 +40,5 @@
       "happy hour end 2" : 0
       
     },
-],
+]
 }
