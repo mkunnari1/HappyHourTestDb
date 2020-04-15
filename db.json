@@ -9,7 +9,7 @@
       "happy hour start 2": 0,
       "happy hour end 2" : 0
       
-    }
+    },
     {
       "id": 2,
       "name" : "Castor",
@@ -19,7 +19,7 @@
       "happy hour start 2": 0,
       "happy hour end 2" : 0
       
-    }
+    },
     {
       "id": 3,
       "name" : "Testaurant",
@@ -29,7 +29,7 @@
       "happy hour start 2": 0,
       "happy hour end 2" : 0
       
-    }
+    },
     {
       "id": 4,
       "name" : "Lagunitas",
@@ -39,6 +39,6 @@
       "happy hour start 2": 0,
       "happy hour end 2" : 0
       
-    }
+    },
 ],
 }
