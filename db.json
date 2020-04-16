@@ -4,40 +4,40 @@
       "id": 1,
       "name" : "Block 15",
       "address" : "123 Test st. Corvallis, OR 97333",
-      "happy hour start" : 15,
-      "happy hour end": 18,
-      "happy hour start 2": 0,
-      "happy hour end 2" : 0
+      "happyHourStart" : 15,
+      "happyHourEnd": 18,
+      "happyHourStart2": 0,
+      "happyHourEnd2" : 0
       
     },
     {
       "id": 2,
       "name" : "Castor",
       "address" : "123 Test st. Corvallis, OR 97333",
-      "happy hour start" : 16,
-      "happy hour end": 20,
-      "happy hour start 2": 0,
-      "happy hour end 2" : 0
+      "happyHourStart" : 16,
+      "happyHourEnd": 20,
+      "happyHourStart2": 0,
+      "happyHourEnd2" : 0
       
     },
     {
       "id": 3,
       "name" : "Testaurant",
       "address" : "1337 Test st. Corvallis, OR 97333",
-      "happy hour start" : 9,
-      "happy hour end": 17,
-      "happy hour start 2": 0,
-      "happy hour end 2" : 0
+      "happyHourStart" : 9,
+      "happyHourEnd": 17,
+      "happyHourStart2": 0,
+      "happyHourEnd2" : 0
       
     },
     {
       "id": 4,
       "name" : "Lagunitas",
       "address" : "123 Test st. Corvallis, OR 97333",
-      "happy hour start" : 12,
-      "happy hour end": 15,
-      "happy hour start 2": 0,
-      "happy hour end 2" : 0
+      "happyHourStart" : 12,
+      "happyHourEnd": 15,
+      "happyHourStart2": 0,
+      "happyHourEnd2" : 0
       
     }
   ]
