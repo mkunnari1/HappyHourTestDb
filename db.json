@@ -3,11 +3,13 @@
     {
       "id": 1,
       "name" : "Block 15",
-      "address" : "123 Test st. Corvallis, OR 97333",
+      "address" : "300 SW Jefferson Ave, Corvallis, OR 97333",
       "happyHourStart" : 15,
       "happyHourEnd": 18,
       "happyHourStart2": 0,
-      "happyHourEnd2" : 0
+      "happyHourEnd2" : 0,
+      "latitude": 44.562340,
+      "longitude": -123.261890
       
     },
     {
@@ -27,17 +29,21 @@
       "happyHourStart" : 9,
       "happyHourEnd": 17,
       "happyHourStart2": 0,
-      "happyHourEnd2" : 0
+      "happyHourEnd2" : 0,
+      "latitude":44.545200,
+      "longitude": -123.268030
       
     },
     {
       "id": 4,
       "name" : "Lagunitas",
-      "address" : "123 Test st. Corvallis, OR 97333",
-      "happyHourStart" : 12,
-      "happyHourEnd": 15,
+      "address" : "1280 N. McDowell Boulevard Petaluma, Calif. 94954",
+      "happyHourStart" : 9,
+      "happyHourEnd": 20,
       "happyHourStart2": 0,
-      "happyHourEnd2" : 0
+      "happyHourEnd2" : 0,
+      "latitude":38.272440,
+      "longitude": -122.662350
       
     }
   ]
